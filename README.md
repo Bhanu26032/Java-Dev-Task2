@@ -29,21 +29,29 @@ This project aims to develop an ATM interface program in Java, simulating the fu
 
 2. Navigate to the project directory:
 
+   ```bash
     cd Java-Dev-Task2
 
 3. Compile the Java code:
 
+     ```bash
     javac AtmInterface.java
 
-4. Run the compiled program:
+5. Run the compiled program:
 
+   ```bash
    java AtmInterface
 
    
 Usage
 Upon running the program, you will be prompted to enter your User ID and PIN.
 Follow the on-screen instructions to perform various banking operations.
+
+
 Sample User
+
 User ID: veritech
+
 PIN: 2580
+
 Initial Balance: $10000.00
